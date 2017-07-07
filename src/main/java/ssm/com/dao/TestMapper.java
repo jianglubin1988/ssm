@@ -1,7 +1,10 @@
 package ssm.com.dao;
 
+import org.springframework.stereotype.Repository;
+
 import ssm.com.domain.Test;
 
+@Repository(value="TestMapper")
 public interface TestMapper {
     int deleteByPrimaryKey(Integer id);
 
