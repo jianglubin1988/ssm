@@ -1,5 +1,0 @@
-ssm\com\domain\Test.class
-ssm\com\dao\TestMapper.class
-ssm\com\controller\TestController.class
-ssm\com\service\impl\TestServiceImpl.class
-ssm\com\service\TestService.class
