@@ -27,7 +27,7 @@ public class TestController {
 		try {
 			Test test = this.testService.selectByPrimaryKey(1);
 			mv.addObject("test",test);
-			mv.setViewName("/jsp/test");
+			mv.setViewName("/test");
 		} catch (Exception e) {
 			e.printStackTrace();
 		}
