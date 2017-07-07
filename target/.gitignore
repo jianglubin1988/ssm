@@ -1,1 +1,5 @@
 /test-classes/
+/ssm/
+ssm.war
+/maven-status/
+/maven-archiver/
