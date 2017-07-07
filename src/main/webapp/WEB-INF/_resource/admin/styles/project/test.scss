@@ -1,0 +1,12 @@
+@charset "utf-8";
+@import "../base/_mixin.scss";
+@import "../base/_global.scss";
+
+html, body{
+    background-color: $color-background;
+}
+
+.banner{
+    margin-top: 40px;
+    height: 400px;
+}

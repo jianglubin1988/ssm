@@ -12,3 +12,4 @@ log.txt
 /target/maven-status/
 /target/ssm/
 /target/ssm.war
+/node_modules/
