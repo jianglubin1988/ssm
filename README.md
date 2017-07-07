@@ -1,1 +1,2 @@
-mvn clean install
+maven´ò°üÃüÁî£º
+mvn install
