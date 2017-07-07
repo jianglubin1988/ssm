@@ -1,2 +1,1 @@
-maven´ò°üÃüÁî£º
-mvn install
+mavenæ„å»ºå‘½ä»¤ï¼šmvn install
