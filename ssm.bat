@@ -11,8 +11,8 @@ if %input% == 2 (
 if %input% == 3 (
 	cd D:\Tomcat 8.0\bin\
 	startup.bat
+	cd D:\GitWorkspace\java\ssm
 	echo startup finished
 )
-cd D:\GitWorkspace\java\ssm
 echo finished
 
