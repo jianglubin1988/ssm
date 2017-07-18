@@ -13,3 +13,4 @@ log.txt
 /target/ssm/
 /target/ssm.war
 /node_modules/
+/target/
